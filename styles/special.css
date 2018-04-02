@@ -1,0 +1,129 @@
+main {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+button {
+
+    margin: 1px;
+    padding: 5px 35px;
+    width: 150px;
+}
+
+.btn-special {
+    margin-right: 5px;
+    background-color: rgb(44, 62, 80);
+    color: white;
+    border: 1px solid whitesmoke;
+}
+
+.btn-range {
+    margin-bottom: 2px;
+}
+
+button:hover {
+    cursor: pointer !important;
+}
+
+a {
+    color: #2c3e50 !important;
+}
+
+a:hover {
+    color: #2c3e50 !important;
+    cursor: pointer !important;
+}
+
+header nav ul li {
+    float: left;
+    list-style: none;
+}
+
+header .nav-login {
+    float: right;
+}
+
+header .nav-login form {
+    float: left;
+}
+
+header .nav-login form input {
+    float: left;
+    width: 190px;
+    height: 38px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    border: 0px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+header .nav-login form button:hover {
+    cursor: pointer;
+}
+
+header .nav-login a:hover {
+    cursor: pointer;
+}
+
+.forgot-password {
+    text-align: right;
+    margin: 0 auto;
+    padding-right: 80px;
+}
+
+.index-greeting {
+    color: #2C3E50;
+    text-shadow: 4px 1px 4px #2C3E50;
+    text-align: center;
+    padding: 25px;
+}
+
+.header-greeting {
+    color: white;
+    text-transform: none;
+    margin: 1px;
+    padding: 5px 35px;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.brand-navbarlogo {
+    width: 30px;
+    height: 30px;
+}
+
+.brand-name{
+    color: aliceblue;
+}
+
+.table-head {
+    background-color: #0a4b3e;
+}
+
+ul li {
+    margin-left: 25px;
+}
+
+ul li:hover {
+    cursor: pointer;
+}
+
+div.card-body > ul {
+    padding: 0px;
+}
+
+.range-navbar{
+    max-width: 100%;
+}
+
+.dropdown{
+    min-width: 100%;
+}
