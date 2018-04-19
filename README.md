@@ -3,8 +3,7 @@ Simple Login System with PHP
 
 A very simple PHP script with MySQL backend to store usernames, passwords, and use cookies to protect a member's area.
 
-#### Config
-##### config.php
+##### Update includes/dbh.inc.php
 ```
 <?php
 $dbServer = "localhost"; // Enter Database server
@@ -19,5 +18,3 @@ $dbPassword = ""; //  Enter Database admin password
 All code is as-is. No support provided.
 
 Do with it what you will... happy coding! :)
-
-
